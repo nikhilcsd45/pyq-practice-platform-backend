@@ -1,0 +1,12 @@
+[
+    {
+        "username": "demo_user",
+        "email": "demo@example.com",
+        "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW"
+    },
+    {
+        "username": "Nikhil",
+        "email": "nikhil9919087830@gmail.com",
+        "hashed_password": "$2b$12$iUAmWlAIKfDa8zMbe1FdwuecaYKF5FTtF.t2tgY5XHrYE7pk.by3G"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "test001",
+        "title": "JEE Physics Practice Test",
+        "description": "Practice test covering key topics in electromagnetism and optics for JEE preparation",
+        "duration": 45,
+        "total_questions": 3,
+        "subjects": ["Physics"],
+        "difficulty": "Medium",
+        "question_ids": ["q001", "q002", "q003"]
+    },
+    {
+        "id": "test002",
+        "title": "Organic Chemistry MCQ Test",
+        "description": "Test your knowledge of organic chemistry concepts and reactions",
+        "duration": 30,
+        "total_questions": 2,
+        "subjects": ["Chemistry"],
+        "difficulty": "Medium",
+        "question_ids": ["q004", "q005"]
+    },
+    {
+        "id": "test003",
+        "title": "Advanced Mathematics Practice",
+        "description": "Comprehensive test covering calculus and vector analysis",
+        "duration": 60,
+        "total_questions": 3,
+        "subjects": ["Mathematics"],
+        "difficulty": "Hard",
+        "question_ids": ["q006", "q007", "q008"]
+    },
+    {
+        "id": "test004",
+        "title": "Biology Fundamentals",
+        "description": "Test covering basic concepts in cell biology and molecular biology",
+        "duration": 20,
+        "total_questions": 2,
+        "subjects": ["Biology"],
+        "difficulty": "Easy",
+        "question_ids": ["q009", "q010"]
+    }
+]

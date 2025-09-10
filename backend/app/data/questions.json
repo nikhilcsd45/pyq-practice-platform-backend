@@ -1,0 +1,272 @@
+[
+    {
+        "id": "q001",
+        "text": "A charged particle moves through a magnetic field. Which of the following statements is correct?",
+        "options": [
+            {
+                "id": "a",
+                "text": "The magnetic force always does work on the particle"
+            },
+            {
+                "id": "b",
+                "text": "The magnetic force never does work on the particle"
+            },
+            {
+                "id": "c",
+                "text": "The magnetic force does work only when the particle moves perpendicular to the field"
+            },
+            {
+                "id": "d",
+                "text": "The magnetic force does work only when the particle moves parallel to the field"
+            }
+        ],
+        "correct_option_id": "b",
+        "explanation": "The magnetic force on a moving charged particle is always perpendicular to both the velocity of the particle and the magnetic field (F = qv × B). Since the force is perpendicular to the velocity, it does no work on the particle.",
+        "subject": "Physics",
+        "topic": "Electromagnetism",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q002",
+        "text": "Which of the following is a correct statement about the photoelectric effect?",
+        "options": [
+            {
+                "id": "a",
+                "text": "The kinetic energy of emitted electrons depends on the intensity of light"
+            },
+            {
+                "id": "b",
+                "text": "The number of emitted electrons depends on the frequency of light"
+            },
+            {
+                "id": "c",
+                "text": "The kinetic energy of emitted electrons depends on the frequency of light"
+            },
+            {
+                "id": "d",
+                "text": "Photoelectric effect occurs for all frequencies of light"
+            }
+        ],
+        "correct_option_id": "c",
+        "explanation": "In the photoelectric effect, the kinetic energy of the emitted electrons depends on the frequency of the incident light (E_k = hf - φ, where φ is the work function). The number of electrons emitted depends on the intensity of light.",
+        "subject": "Physics",
+        "topic": "Modern Physics",
+        "difficulty": "Hard"
+    },
+    {
+        "id": "q003",
+        "text": "A ray of light travels from an optically denser medium to a rarer medium. The critical angle for total internal reflection is 30°. What is the refractive index of the denser medium?",
+        "options": [
+            {
+                "id": "a",
+                "text": "1.5"
+            },
+            {
+                "id": "b",
+                "text": "2.0"
+            },
+            {
+                "id": "c",
+                "text": "2.5"
+            },
+            {
+                "id": "d",
+                "text": "3.0"
+            }
+        ],
+        "correct_option_id": "b",
+        "explanation": "The formula for critical angle is sin(θ_c) = n₂/n₁, where n₁ is the refractive index of the denser medium and n₂ is the refractive index of the rarer medium (usually air, n₂=1). Therefore, n₁ = 1/sin(30°) = 1/0.5 = 2.0.",
+        "subject": "Physics",
+        "topic": "Optics",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q004",
+        "text": "The hybridization of carbon in benzene is:",
+        "options": [
+            {
+                "id": "a",
+                "text": "sp"
+            },
+            {
+                "id": "b",
+                "text": "sp²"
+            },
+            {
+                "id": "c",
+                "text": "sp³"
+            },
+            {
+                "id": "d",
+                "text": "sp³d"
+            }
+        ],
+        "correct_option_id": "b",
+        "explanation": "In benzene (C₆H₆), each carbon atom is bonded to two other carbon atoms and one hydrogen atom in a planar hexagonal structure. This requires sp² hybridization, which forms three hybrid orbitals in a trigonal planar arrangement, with one p orbital perpendicular to the plane.",
+        "subject": "Chemistry",
+        "topic": "Organic Chemistry",
+        "difficulty": "Easy"
+    },
+    {
+        "id": "q005",
+        "text": "Which of the following is an example of nucleophilic substitution reaction?",
+        "options": [
+            {
+                "id": "a",
+                "text": "CH₃CH₂Br + KOH → CH₃CH₂OH + KBr"
+            },
+            {
+                "id": "b",
+                "text": "CH₃CH₂OH + HBr → CH₃CH₂Br + H₂O"
+            },
+            {
+                "id": "c",
+                "text": "CH₂=CH₂ + HBr → CH₃CH₂Br"
+            },
+            {
+                "id": "d",
+                "text": "CH₃CH₃ + Br₂ → CH₃CH₂Br + HBr"
+            }
+        ],
+        "correct_option_id": "a",
+        "explanation": "In the reaction CH₃CH₂Br + KOH → CH₃CH₂OH + KBr, the OH⁻ ion (a nucleophile) attacks the carbon bonded to Br, replacing the Br⁻ (a leaving group). This is a classic example of a nucleophilic substitution reaction.",
+        "subject": "Chemistry",
+        "topic": "Organic Chemistry",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q006",
+        "text": "What is the value of ∫cos²(x)dx?",
+        "options": [
+            {
+                "id": "a",
+                "text": "sin(x) + C"
+            },
+            {
+                "id": "b",
+                "text": "x/2 + sin(2x)/4 + C"
+            },
+            {
+                "id": "c",
+                "text": "tan(x) + C"
+            },
+            {
+                "id": "d",
+                "text": "x/2 - sin(2x)/4 + C"
+            }
+        ],
+        "correct_option_id": "b",
+        "explanation": "Using the identity cos²(x) = (1 + cos(2x))/2, we get ∫cos²(x)dx = ∫(1/2 + cos(2x)/2)dx = x/2 + sin(2x)/4 + C.",
+        "subject": "Mathematics",
+        "topic": "Integration",
+        "difficulty": "Medium"
+    },
+    {
+        "id": "q007",
+        "text": "The limit lim(x→0) (sin(x)/x) equals:",
+        "options": [
+            {
+                "id": "a",
+                "text": "0"
+            },
+            {
+                "id": "b",
+                "text": "1"
+            },
+            {
+                "id": "c",
+                "text": "∞"
+            },
+            {
+                "id": "d",
+                "text": "Does not exist"
+            }
+        ],
+        "correct_option_id": "b",
+        "explanation": "This is a well-known limit in calculus. As x approaches 0, the ratio sin(x)/x approaches 1. This can be proven using the squeeze theorem or l'Hôpital's rule.",
+        "subject": "Mathematics",
+        "topic": "Calculus",
+        "difficulty": "Easy"
+    },
+    {
+        "id": "q008",
+        "text": "Which of the following is the correct expression for the curl of a vector field F = (xy, yz, zx)?",
+        "options": [
+            {
+                "id": "a",
+                "text": "(x, y, z)"
+            },
+            {
+                "id": "b",
+                "text": "(z, x, y)"
+            },
+            {
+                "id": "c",
+                "text": "(y-z, z-x, x-y)"
+            },
+            {
+                "id": "d",
+                "text": "(0, 0, 0)"
+            }
+        ],
+        "correct_option_id": "c",
+        "explanation": "The curl of a vector field F = (Fx, Fy, Fz) is given by ∇ × F = (∂Fz/∂y - ∂Fy/∂z, ∂Fx/∂z - ∂Fz/∂x, ∂Fy/∂x - ∂Fx/∂y). Computing this for F = (xy, yz, zx), we get (y-z, z-x, x-y).",
+        "subject": "Mathematics",
+        "topic": "Vector Calculus",
+        "difficulty": "Hard"
+    },
+    {
+        "id": "q009",
+        "text": "Which organelle is known as the 'powerhouse of the cell'?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Golgi apparatus"
+            },
+            {
+                "id": "b",
+                "text": "Endoplasmic reticulum"
+            },
+            {
+                "id": "c",
+                "text": "Mitochondria"
+            },
+            {
+                "id": "d",
+                "text": "Lysosome"
+            }
+        ],
+        "correct_option_id": "c",
+        "explanation": "Mitochondria are called the 'powerhouse of the cell' because they generate most of the cell's supply of ATP (adenosine triphosphate), which is used as a source of chemical energy.",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Easy"
+    },
+    {
+        "id": "q010",
+        "text": "Which of the following is NOT part of the central dogma of molecular biology?",
+        "options": [
+            {
+                "id": "a",
+                "text": "DNA replication"
+            },
+            {
+                "id": "b",
+                "text": "Transcription"
+            },
+            {
+                "id": "c",
+                "text": "Translation"
+            },
+            {
+                "id": "d",
+                "text": "Reverse transcription"
+            }
+        ],
+        "correct_option_id": "d",
+        "explanation": "The central dogma of molecular biology describes the flow of genetic information from DNA to RNA (transcription) and then to proteins (translation), as well as DNA replication. Reverse transcription (RNA to DNA) was discovered later and is an exception to the central dogma, occurring in retroviruses.",
+        "subject": "Biology",
+        "topic": "Molecular Biology",
+        "difficulty": "Medium"
+    }
+]
